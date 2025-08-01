@@ -16,7 +16,7 @@ It focuses on understanding **where and when** people are getting picked up — 
 
 ## 🧪 Try It Out
 
-### 💻 [Explore the Interactive Map](docs/uber_map_full.html)  
+### 💻 [Explore the Interactive Map](https://red-madhi.github.io/moonlight-market-analysis/uber_map_full.html)  
 *No setup required — view in browser!*
 
 ### 📷 Static Preview  
